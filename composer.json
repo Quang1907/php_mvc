@@ -1,0 +1,15 @@
+{
+    "name": "quangcntt/php",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "vendor/core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "QuangCNTT",
+            "email": "ltrinh1907@gmail.com"
+        }
+    ],
+    "require": {}
+}
