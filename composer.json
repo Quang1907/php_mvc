@@ -2,7 +2,8 @@
     "name": "quangcntt/php",
     "autoload": {
         "psr-4": {
-            "Core\\": "vendor/core/"
+            "Core\\": "vendor/core/",
+            "App\\": "app/"
         }
     },
     "authors": [
